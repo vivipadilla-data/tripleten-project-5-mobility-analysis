@@ -91,4 +91,8 @@ Aspiring Data Analyst passionate about transforming data into actionable insight
 - Data Visualization
 
 LinkedIn:
-(Agrega aquí el enlace a tu perfil)
+www.linkedin.com/in/viviana-padilla-864575278()
+
+## 📊 Project Visualization
+
+![Traffic vs GDP](traffic_vs_gdp.png)
